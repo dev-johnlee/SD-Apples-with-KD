@@ -12,6 +12,12 @@ The images in this dataset are in standard TIFF format with a size of 2448*2048 
   <figcaption style="text-align:center; font-size:15px; color:#808080">
     Normal apple
   </figcaption>
+  <img src="https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg"
+       style="width: 500px; margin:0px auto">
+  <figcaption style="text-align:center; font-size:15px; color:#808080">
+    Normal apple
+  </figcaption>
+  
 </figure>
 
 
