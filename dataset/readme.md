@@ -6,7 +6,7 @@ The images in this dataset are in standard TIFF format with a size of 2448*2048 
 <!-- ![23945062_20211025_175830_562](https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg)
 ![23945062_20211025_200907_668](https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg) -->
 
-<img src="https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg" width="400" height="400"/> <img src="https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg" width="200" height="200"/> <img src="https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg" width="200" height="200"/>
 
 
 The dataset is publicly available and can be used for research purposes. However, due to the large size of the entire dataset, we are unable to upload it all to GitHub at once. If you are interested in obtaining the dataset, please make a separate request by contacting us at juhwanlee@jnu.ac.kr and we will provide it to you via email.
