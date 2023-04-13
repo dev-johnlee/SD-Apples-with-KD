@@ -6,6 +6,15 @@ The images in this dataset are in standard TIFF format with a size of 2448*2048 
 <!-- ![23945062_20211025_175830_562](https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg)
 ![23945062_20211025_200907_668](https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg) -->
 
+<figure style="display:block; text-align:center;">
+  <img src="https://solly29.github.io/assets/images/cat.jpg](https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg"
+       style="width: 500px; margin:0px auto">
+  <figcaption style="text-align:center; font-size:15px; color:#808080">
+    Normal apple
+  </figcaption>
+</figure>
+
+
 <img src="https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg" width="500" height="400"/> <img src="https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg" width="500" height="400"/>
 
 
