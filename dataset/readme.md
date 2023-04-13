@@ -12,16 +12,13 @@ The images in this dataset are in standard TIFF format with a size of 2448*2048 
   <figcaption style="text-align:center; font-size:15px; color:#808080">
     Normal apple
   </figcaption>
-  <img src="https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg"
+  <img src="https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg"
        style="width: 500px; margin:0px auto">
   <figcaption style="text-align:center; font-size:15px; color:#808080">
-    Normal apple
+    defects apple
   </figcaption>
   
 </figure>
-
-
-<img src="https://user-images.githubusercontent.com/45117394/231834343-d67e0717-1259-44c9-836b-4750483ae628.jpg" width="500" height="400"/> <img src="https://user-images.githubusercontent.com/45117394/231834716-a33d4153-9b04-41ed-af87-2b0d4b375d84.jpg" width="500" height="400"/>
 
 
 The dataset is publicly available and can be used for research purposes. However, due to the large size of the entire dataset, we are unable to upload it all to GitHub at once. If you are interested in obtaining the dataset, please make a separate request by contacting us at juhwanlee@jnu.ac.kr and we will provide it to you via email.
